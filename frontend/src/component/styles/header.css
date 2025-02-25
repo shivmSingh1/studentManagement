@@ -1,0 +1,7 @@
+@media(max-width:790px) {
+	.sh-header {
+		flex-direction: column-reverse !important;
+		align-items: center;
+		gap: 30px;
+	}
+}
